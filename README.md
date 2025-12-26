@@ -10,7 +10,7 @@
 
 Адрес сервера - http://localhost:8000/
 
-Swagger - http://localhost:8000/docs
+Документация (Swagger) - http://localhost:8000/docs
 
 Подписка на тему nats - ./app/nats sub currency.updates
 
