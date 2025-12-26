@@ -1,4 +1,4 @@
-Установка зависимостей - pip install -r requirements.txt
+Установка зависимостей - pip install -r app/requirements.txt
 
 Запуск nats сервера - ./app/nats-server
 
